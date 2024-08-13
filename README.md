@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ``` 
 linha 68: if description in ['Trend Block', 'Trend Sweep']:
 ```
-Ignora qualquer evento que contém as tags `Trend Block` e `Trend Sweep`
+Ignora qualquer evento que contém as tags `Trend Block` ou `Trend Sweep`
 
 
 ### Nota
